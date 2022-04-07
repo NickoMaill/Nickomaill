@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WeatherApp](https://github.com/NickoMaill/Weather-App)
 
-- 🌱 I’m currently learning **Javascript, Python, PHP**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **nicomaillols@gmail.com**
 
