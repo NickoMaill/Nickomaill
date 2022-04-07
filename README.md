@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nicomaillols@gmail.com**
 
-- 📄 Know about my experiences [Musician in Fullstack Developper reconversion]()
+- 📄 Know about my experiences [Musician in Fullstack Developper reconversion](./Nicolas Maillols CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
